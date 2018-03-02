@@ -57,6 +57,10 @@ googleAnalytics = ""
       url = "team.html"
 
     [[params.navigation.links]]
+      name = "Contact"
+      url = "#"
+
+    [[params.navigation.links]]
       name = "Github"
       url = "https://github.com/strange-labs-uk/ethereum-lottery"
 
