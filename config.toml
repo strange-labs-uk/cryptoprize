@@ -93,25 +93,25 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "White Paper"
       subtitle = "Theory and mechanics"
-      image = "pic01.jpg"
+      image = "pic1.jpg"
       url = "whitepaper.html"
 
     [[params.tiles.showcase]]
       title = "Github"
       subtitle = "Check out the code"
-      image = "pic02.jpg"
+      image = "pic2.jpg"
       url = "https://github.com/strange-labs-uk/ethereum-lottery"
 
     [[params.tiles.showcase]]
       title = "About"
       subtitle = "What, why, when, how?"
-      image = "pic04.jpg"
+      image = "pic3.jpg"
       url = "about.html"
 
       [[params.tiles.showcase]]
       title = "Team"
       subtitle = "Who's behind this prize draw?"
-      image = "pic03.jpg"
+      image = "pic4.jpg"
       url = "team.html"
 
     # You can make more showcases by copy and pasting the code above
