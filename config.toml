@@ -16,7 +16,7 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "CryptoRaffle.Online"
     home = "Home"
-    work = "How does it work?"
+    work = "How do I play?"
     testimonials = "Testimonials"
     services = "Whitepaper"
     about = "About"
@@ -126,19 +126,19 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
+      quote = "&ldquo;I just can't stop playing! Having a draw every day and week is addictive. And we can see the process!.&rdquo;"
       person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
       img = "person1.jpg"
       alt = "Person1"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
+      quote = "&ldquo;I lost all my money on this fucking raffle.&rdquo;"
       person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
       img = "person2.jpg"
       alt = "Person2"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
+      quote = "&ldquo;I had never bothered with Ether, but now I have like a million dollars worth.&rdquo;"
       person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
       img = "person3.jpg"
       alt = "Person3"
