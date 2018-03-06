@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Crypto Draw"
+title = "Elate theme"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -14,11 +14,11 @@ theme = "hugo-elate-theme"
   email = ""
   # Navigation
   [params.navigation]
-    brand = "Crypto Draw"
+    brand = "Elate"
     home = "Home"
-    work = "Play"
+    work = "Work"
     testimonials = "Testimonials"
-    services = "Whitepaper"
+    services = "Services"
     about = "About"
     contact = "Contact"
 
@@ -39,15 +39,15 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "Crypto Draw"
-    subtitle = 'The worlds most trustworthy & transparent raffle draw'
+    title = "Do something you love."
+    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
   [params.intro]
 
   [[params.intro.item]]
-    title = "Transparent"
+    title = "Plan"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Get In Touch"
@@ -55,7 +55,7 @@ theme = "hugo-elate-theme"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Trusted"
+    title = "Develop"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Click Me"
@@ -63,7 +63,7 @@ theme = "hugo-elate-theme"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Tested"
+    title = "Launch"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Why us?"
@@ -72,15 +72,15 @@ theme = "hugo-elate-theme"
 
   [params.intro.video]
     enable = true
-    title = "Take me to the app"
+    title = "Watch the video"
     icon = "icon-play2"
-    url = "http://127.0.0.1:8080/"
+    url = "https://vimeo.com/channels/staffpicks/93951774"
 
 
   # Work section
   [params.work]
     enable = true
-    title = "Play"
+    title = "Work"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
@@ -150,8 +150,8 @@ theme = "hugo-elate-theme"
   # Services section
   [params.services]
     enable = true
-    title = "Whitepaper"
-    description = "Here is our explanation as to what the fuck is going on and why"
+    title = "Services"
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.services.item]]
       title = "Brand &amp; Strategy"
@@ -171,9 +171,6 @@ theme = "hugo-elate-theme"
       title = "CMS &amp; eCommerce"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
       icon = "icon-monitor"
-
-
-
 
   # About section
   [params.about]
