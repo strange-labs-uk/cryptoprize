@@ -146,44 +146,35 @@ theme = "hugo-elate-theme"
   # About section
   [params.about]
     enable = true
-    title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Roadmap"
+    description = "This is our plan for development."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person1.jpg"
-      alt = "Person1"
+      name = "STAGE 1"
+      position = ""
+      description = ""
+      img = ""
+      alt = ""
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
       ]
 
     [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
-      alt = "Person2"
+      name = "STAGE 2"
+      position = ""
+      description = ""
+      img = ""
+      alt = ""
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
       ]
 
     [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
+      name = "STAGE 3"
+      position = ""
+      description = ""
+      img = ""
+      alt = ""
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]      
+      ]    
 
 
   # Services section
@@ -194,7 +185,7 @@ theme = "hugo-elate-theme"
 
     [[params.services.item]]
       title = "Whitepaper"
-      description = "Download the white paper"
+      description = '<a href="http://www.lol.com" target="blank">Download the white paper</a>'
       icon = "icon-layers2"
 
     [[params.services.item]]
