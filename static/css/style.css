@@ -433,6 +433,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-home .text-inner h1 {
   font-size: 50px;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 10px;
   color: white;
   margin: 0 0 20px 0;
 }
@@ -440,6 +442,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 28px;
   line-height: 38px;
   font-weight: 300;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 10px;
   color: rgba(255, 255, 255, 0.8);
   margin: 0;
 }
