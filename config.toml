@@ -51,7 +51,7 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
-    img = "img_7.jpg"
+    img = ""
 
   [[params.intro.item]]
     title = "Trusted"
@@ -59,7 +59,7 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Click Me"
     icon = "icon-wrench"
-    img = "img_8.jpg"
+    img = ""
 
   [[params.intro.item]]
     title = "Tested"
@@ -67,13 +67,13 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Why us?"
     icon = "icon-rocket"
-    img = "img_10.jpg"
+    img = ""
 
   [params.intro.video]
     enable = true
     title = "Take me to the app"
     icon = "icon-play2"
-    url = "http://127.0.0.1:8080/"
+    url = "http://127.0.0.1:1313/"
 
 
   # Work section
@@ -143,27 +143,6 @@ theme = "hugo-elate-theme"
       img = "person3.jpg"
       alt = "Person3"
     
-
-
-
-  # Services section
-  [params.services]
-    enable = true
-    title = "Whitepaper"
-    description = "Here is our explanation as to what the fuck is going on and why. Download."
-
-    [[params.services.item]]
-      title = "Summary"
-      description = "What an amazing thing this is"
-      icon = "icon-layers2"
-
-    [[params.services.item]]
-      title = "Github"
-      description = "Check out the code"
-      icon = "icon-social-github"
-
-
-
   # About section
   [params.about]
     enable = true
@@ -206,6 +185,24 @@ theme = "hugo-elate-theme"
         ["icon-dribbble", "#"]
       ]      
 
+
+  # Services section
+  [params.services]
+    enable = true
+    title = "Services"
+    description = "Here is our explanation as to what the fuck is going on and why. Download."
+
+    [[params.services.item]]
+      title = "Whitepaper"
+      description = "Download the white paper"
+      icon = "icon-layers2"
+
+    [[params.services.item]]
+      title = "Github"
+      description = '<a href="https://github.com/strange-labs-uk/ethereum-lottery" target="blank">Check out the code</a>'
+      icon = "icon-social-github"
+
+
   # Counters section
   [params.counters]
     enable = true
@@ -213,7 +210,7 @@ theme = "hugo-elate-theme"
     background = "full_image_1.jpg"
 
     [[params.counters.item]]
-      description = "Finished projects"
+      description = "Finished prize draws"
       icon = "icon-briefcase"
       from = 0
       to = 89
@@ -237,7 +234,7 @@ theme = "hugo-elate-theme"
       speed = 5000
 
     [[params.counters.item]]
-      description = "Happy clients"
+      description = "Winners"
       icon = "icon-people"
       from = 0
       to = 52
@@ -247,7 +244,7 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = '&copy; CryptoRaffle 2018. All Rights Reserved.'
     links = [
         ["icon-twitter", "#twitter"],
         ["icon-facebook", "#facebook"],
