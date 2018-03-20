@@ -163,19 +163,19 @@ theme = "hugo-elate-theme"
     [[params.testimonials.item]]
       quote = "&ldquo;I just can't stop playing! Having a draw every day and week is addictive. And we can see the process!.&rdquo;"
       person = 'John Doe, CEO <span class="subtext">Creative Director</span>'
-      img = "person1.jpg"
+      img = "background.png"
       alt = "Person1"
 
     [[params.testimonials.item]]
       quote = "&ldquo;I lost all my money on this fucking raffle.&rdquo;"
       person = 'John Doe, Senior UI <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
+      img = "background.png"
       alt = "Person2"
 
     [[params.testimonials.item]]
       quote = "&ldquo;I had never bothered with Ether, but now I have like a million dollars worth.&rdquo;"
       person = 'Chris Nash, Director <span class="subtext">Creative Director</span>'
-      img = "person3.jpg"
+      img = "background.png"
       alt = "Person3"
 
   # Counters section
