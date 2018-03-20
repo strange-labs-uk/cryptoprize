@@ -49,25 +49,25 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Transparent"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Get In Touch"
+    description = "Our entire codebase and roadmap is available to review."
+    url = "https://github.com/strange-labs-uk/ethereum-lottery"
+    button = "View Code"
     icon = "icon-bulb"
     img = ""
 
   [[params.intro.item]]
     title = "Trusted"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Smart contract based prize draw means no centralized control."
     url = "#"
-    button = "Click Me"
+    button = "View Contracts"
     icon = "icon-wrench"
     img = ""
 
   [[params.intro.item]]
     title = "Tested"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Full test suite, passing on all testnets before deployment."
     url = "#"
-    button = "Why us?"
+    button = "View Tests"
     icon = "icon-rocket"
     img = ""
 

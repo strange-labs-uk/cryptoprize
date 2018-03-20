@@ -570,7 +570,7 @@ h1, h2, h3, h4, h5, h6 {
   background: transparent;
 }
 #fh5co-intro .fh5co-block:hover .btn:hover, #fh5co-intro .fh5co-block:focus .btn:hover {
-  background: #636363 !important;
+  background: #FF00C7 !important;
   border: 2px solid #636363 !important;
 }
 
@@ -1266,17 +1266,17 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #636363;
+  background: #FF00C7;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #8B006D;
+  background: #FF00C7;
 }
 .btn:hover, .btn:active, .btn:focus {
-  background: #8B006D !important;
+  background: #FF00C7 !important;
   color: #fff;
   outline: none !important;
 }
