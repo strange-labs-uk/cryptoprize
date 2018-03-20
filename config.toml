@@ -18,7 +18,7 @@ theme = "hugo-elate-theme"
     home = "Home"
     work = "How do I play?"
     about = "Roadmap"
-    services = "Services"
+    services = "Resources"
     testimonials = "Testimonials"
     
     
@@ -60,7 +60,7 @@ theme = "hugo-elate-theme"
     description = "Smart contract based prize draw means no centralized control."
     url = "#"
     button = "View Contracts"
-    icon = "icon-wrench"
+    icon = "icon-badge"
     img = ""
 
   [[params.intro.item]]
@@ -68,7 +68,7 @@ theme = "hugo-elate-theme"
     description = "Full test suite, passing on all testnets before deployment."
     url = "#"
     button = "View Tests"
-    icon = "icon-rocket"
+    icon = "icon-chemistry"
     img = ""
 
   [params.intro.video]
@@ -81,8 +81,8 @@ theme = "hugo-elate-theme"
   # Work section
   [params.work]
     enable = true
-    title = "How do I play?"
-    description = "Buy ether. Install metamask. Move ether. Buy ticket. Win."
+    title = "You can only win if you play."
+    description = "What do I need to play the game?"
     footertext = ''
 
     [[params.work.row]]
@@ -112,7 +112,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "STAGE 1"
       position = ""
-      description = ""
+      description = "Initial ideas process, contract design"
       img = ""
       alt = ""
       social = [
@@ -121,7 +121,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "STAGE 2"
       position = ""
-      description = ""
+      description = "Deploy dApp, record stats"
       img = ""
       alt = ""
       social = [
@@ -130,7 +130,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "STAGE 3"
       position = ""
-      description = ""
+      description = "Develop dApp, grow"
       img = ""
       alt = ""
       social = [
@@ -140,8 +140,8 @@ theme = "hugo-elate-theme"
   # Services section
   [params.services]
     enable = true
-    title = "Services"
-    description = "Here is our explanation as to what the fuck is going on and why."
+    title = "Resources"
+    description = "Stuff to browse"
 
     [[params.services.item]]
       title = "Whitepaper"
@@ -152,6 +152,7 @@ theme = "hugo-elate-theme"
       title = "Github"
       description = '<a href="https://github.com/strange-labs-uk/ethereum-lottery" target="blank">Check out the code</a>'
       icon = "icon-social-github"
+
 
   # Testimonials section
   [params.testimonials]
@@ -192,10 +193,10 @@ theme = "hugo-elate-theme"
       speed = 5000
 
     [[params.counters.item]]
-      description = "Lines of code"
+      description = "Lines in contract"
       icon = "icon-code"
       from = 0
-      to = 2343409
+      to = 409
       interval = 50
       speed = 5000
 
@@ -211,7 +212,7 @@ theme = "hugo-elate-theme"
       description = "Winners"
       icon = "icon-people"
       from = 0
-      to = 52
+      to = 89
       interval = 50
       speed = 5000
 
