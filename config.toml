@@ -14,7 +14,7 @@ theme = "hugo-elate-theme"
   email = ""
   # Navigation
   [params.navigation]
-    brand = "WinCoin.today"
+    brand = "WinCoin.Today"
     home = "Home"
     work = "How do I play?"
     about = "Roadmap"
@@ -73,7 +73,7 @@ theme = "hugo-elate-theme"
 
   [params.intro.video]
     enable = true
-    title = "Take me to the app"
+    title = "Take me to the dApp"
     icon = "icon-play2"
     url = "http://127.0.0.1:1313/"
 
@@ -82,7 +82,7 @@ theme = "hugo-elate-theme"
   [params.work]
     enable = true
     title = "You can only win if you play."
-    description = "What do I need to play the game?"
+    description = "What do I need?"
     footertext = ''
 
     [[params.work.row]]
